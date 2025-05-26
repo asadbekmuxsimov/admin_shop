@@ -65,7 +65,7 @@ function User() {
   }
 
   return (
-    <div className="p-6 w-full h-[640px] border-b border-b-gray-300 bg-white rounded-lg overflow-y-auto">
+    <div className="p-6 w-[1300px] h-[640px] ml-[150px] border-b border-b-gray-300 bg-white rounded-lg overflow-y-auto">
       <DrawerPage
         nomi="Mijozlar"
         editItem={selectedUser}

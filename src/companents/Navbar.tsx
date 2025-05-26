@@ -8,9 +8,9 @@ import Banners from "../_companents/banners/Banerlar";
 
 function Navbar() {
   return (
-    <div className="container mx-auto">
-      <div className="flex justify-between items-center bg-gray-900 p-4 text-white shadow-lg rounded-lg">
-        <div className="text-2xl font-bold tracking-wide">AAAAA</div>
+    <div className="container mx-auto ">
+      <div className="flex w-[100%] justify-between items-center bg-gray-900 p-4 text-white shadow-lg rounded-lg">
+        <div className="text-2xl font-bold tracking-wide"></div>
         <div className="flex items-center space-x-3">
           <img
             className="w-12 h-12 rounded-full border-2 border-white"

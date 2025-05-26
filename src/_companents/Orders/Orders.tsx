@@ -61,7 +61,7 @@ function Buyurtmalar() {
   };
 
   return (
-    <div className="p-6 w-full h-[640px] border-b border-b-gray-300 bg-white rounded-lg overflow-y-auto">
+    <div className="p-6 w-[1300px] ml-[150px] h-[640px] border-b border-b-gray-300 bg-white rounded-lg overflow-y-auto">
       <OrdersDrawer
         nomi="Buyurtmalar"
         editItem={selectedUser}

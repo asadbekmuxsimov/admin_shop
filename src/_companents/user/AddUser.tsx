@@ -63,7 +63,7 @@ function DrawerPage({
 
   return (
     <div>
-      <div className="flex items-center justify-between">
+      <div className="flex items-center justify-between w-full">
         <h2 className="text-2xl font-semibold mb-4">{nomi}</h2>
         <Button type="primary" onClick={() => setIsOpen(true)}>
           {editItem ? "Tahrirlash" : "Qo'shish"}
