@@ -138,7 +138,7 @@ function Bannerlar() {
             key: "imageUrl",
             render: (url: string) => (
               <Image
-                width={70}
+                width={60}
                 height={50}
                 src={url}
                 placeholder={<Image preview={false} src={url} width={70} />}

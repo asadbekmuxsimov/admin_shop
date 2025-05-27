@@ -116,7 +116,7 @@ function User() {
               return (
                 <div>
                   <Image
-                    width={70}
+                    width={60}
                     height={50}
                     src={image}
                     placeholder={

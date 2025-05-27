@@ -123,7 +123,7 @@ function Productlar() {
               return (
                 <div>
                   <Image
-                    width={70}
+                    width={60}
                     height={50}
                     src={imageUrl}
                     placeholder={
